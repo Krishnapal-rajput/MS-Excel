@@ -65,7 +65,8 @@ I am an **MBA candidate with a background in technology and business operations*
 This repository reflects my learning process and practical exposure to Excel as a **core analytical tool for managers and analysts**.
 
 🔗 **GitHub:** https://github.com/Krishnapal-rajput  
-🔗 **LinkedIn:** https://linkedin.com/in/krishnapal-rajput  
+🔗 **LinkedIn:** https://linkedin.com/in/krishnapal-rajput
+🔗 **Portfolio:** https://krishnapal-rajput.netlify.app
 
 ---
 
