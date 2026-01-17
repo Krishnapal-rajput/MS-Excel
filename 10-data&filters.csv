@@ -1,0 +1,19 @@
+﻿S No.,Age,Gender,Genre,Rating(*/5)
+1,20,M,Hiphop,2
+2,23,F,Hiphop,3
+3,25,M,Hiphop,1
+4,27,M,Jazz,4
+5,29,F,Jazz,2
+6,30,F,Jazz,4
+7,31,F,Classical,2
+8,33,M,Classical,5
+9,35,M,Classical,5
+10,20,F,Dance,3
+11,23,M,Dance,2
+12,25,F,Dance,4
+13,27,M,Acoustic,5
+14,29,F,Acoustic,4
+15,30,F,Acoustic,3
+16,31,M,Classical,5
+17,33,M,Classical,3
+18,35,F,Classical,1
